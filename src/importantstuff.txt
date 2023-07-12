@@ -1,0 +1,3 @@
+CLIENT_ID = 211839551661-oef0iafjb9upjtk5a9q9j96ka48mb89c.apps.googleusercontent.com
+CLIENT_SECRET = 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
+API_KEY = AIzaSyAiB3h7O1LjgB0SXmvpv4K2kPHb7TFcxGk
